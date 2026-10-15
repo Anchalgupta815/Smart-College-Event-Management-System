@@ -1,0 +1,2 @@
+# Smart College Event Management System
+Smart College Event Management System is a web-based platform developed to manage college events efficiently. It allows students to register, log in, view and search upcoming events, register for events, and track their registrations. Administrators can create, update, and delete events, manage student registrations, monitor seat availability, and send notifications
